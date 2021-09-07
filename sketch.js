@@ -18,7 +18,7 @@ function preload(){
   LifeImage = loadImage("images/Life.png")
   dearthimg = loadImage("images/Destroyed Earth.jpg")
 }
-//8144245418
+
 function setup() {
 
   createCanvas(1200,650);
