@@ -10,13 +10,13 @@ var elifecount = 0
 var gamestate = "play"
 
 function preload(){
-  earthImage = loadImage("images/Earth.png")
-  heroImage = loadImage("images/SuperHero.png")
-  backGround = loadImage("images/Space.jpg")
-  MeteorImage = loadImage("images/Meteor.png")
-  InvaderImage = loadImage("images/Invaders.png")
-  LifeImage = loadImage("images/Life.png")
-  dearthimg = loadImage("images/Destroyed Earth.jpg")
+  earthImage = loadImage("Images/Earth.png")
+  heroImage = loadImage("Images/SuperHero.png")
+  backGround = loadImage("Images/Space.jpg")
+  MeteorImage = loadImage("Images/Meteor.png")
+  InvaderImage = loadImage("Images/Invaders.png")
+  LifeImage = loadImage("Images/Life.png")
+  dearthimg = loadImage("Images/Destroyed Earth.jpg")
 }
 
 function setup() {
